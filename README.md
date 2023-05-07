@@ -18,7 +18,7 @@ Project is created with:
 ## Setup
 To run this project, clone it locally from github:
 
-$ git clone "https://github.com/DominykasSueris/advice_generator"
+`git clone "https://github.com/DominykasSueris/advice_generator`
 
 ## Inspiration 
 This app is a task from https://www.frontendmentor.io/
